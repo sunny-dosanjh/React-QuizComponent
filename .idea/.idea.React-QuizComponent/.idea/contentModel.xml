@@ -4,6 +4,33 @@
     <e p="C:\Users\Sunny Dosanjh\.Rider2018.2\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\Sunny Dosanjh\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Sunny Dosanjh\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_React-QuizComponent.-1619010310.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Sunny Dosanjh\RiderProjects\React-QuizComponent" t="IncludeFlat" />
+    <e p="C:\Users\Sunny Dosanjh\RiderProjects\React-QuizComponent" t="IncludeFlat">
+      <e p="node_modules" t="ExcludeRecursive">
+        <e p="@babel\parser" t="IncludeRecursive" />
+        <e p="@babel\types" t="IncludeRecursive" />
+        <e p="@types" t="IncludeRecursive">
+          <e p="babel__generator" t="IncludeRecursive" />
+          <e p="babel__template" t="IncludeRecursive" />
+          <e p="babel__traverse" t="IncludeRecursive" />
+          <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+          <e p="istanbul-lib-report" t="IncludeRecursive" />
+          <e p="node" t="IncludeRecursive" />
+          <e p="unist" t="IncludeRecursive" />
+          <e p="vfile-message" t="IncludeRecursive" />
+        </e>
+        <e p="babylon" t="IncludeRecursive" />
+        <e p="chai" t="IncludeRecursive" />
+        <e p="chai-enzyme" t="IncludeRecursive" />
+        <e p="cross-env" t="IncludeRecursive" />
+        <e p="enzyme" t="IncludeRecursive" />
+        <e p="enzyme-adapter-react-16" t="IncludeRecursive" />
+        <e p="esprima" t="IncludeRecursive" />
+        <e p="react" t="IncludeRecursive" />
+        <e p="react-dom" t="IncludeRecursive" />
+        <e p="react-scripts" t="IncludeRecursive" />
+        <e p="react-test-renderer" t="IncludeRecursive" />
+        <e p="sinon" t="IncludeRecursive" />
+      </e>
+    </e>
   </component>
 </project>
