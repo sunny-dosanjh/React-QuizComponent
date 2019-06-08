@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3f71291-1a39-4265-bd82-a9d24e2c0d25" name="Default Changelist" comment="Added quiz button">
-      <change afterPath="$PROJECT_DIR$/src/QuizEnd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.React-QuizComponent.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.React-QuizComponent.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3f71291-1a39-4265-bd82-a9d24e2c0d25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Quiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" column="88" selection-start-line="12" selection-start-column="88" selection-end-line="12" selection-end-column="88" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -161,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559402132643</updated>
       <workItem from="1559402136223" duration="3119000" />
-      <workItem from="1559996085097" duration="2651000" />
+      <workItem from="1559996085097" duration="2787000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a quiz.">
       <created>1559403813972</created>
@@ -184,11 +182,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559997007167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added QuizEnd component.">
+      <created>1559998797071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559998797071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5770000" />
+    <option name="totallyTimeSpent" value="5906000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,7 +210,7 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988897" visible="true" weight="0.28495198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.5011103" side_tool="true" visible="true" weight="0.28495198" />
+      <window_info id="npm" order="2" sideWeight="0.5011103" side_tool="true" weight="0.28495198" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -217,10 +222,10 @@
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3298611" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3298611" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3298611" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -279,7 +284,8 @@
     <MESSAGE value="Creating a quiz." />
     <MESSAGE value="require was intellisensed to the wrong method." />
     <MESSAGE value="Added quiz button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added quiz button" />
+    <MESSAGE value="Added QuizEnd component." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added QuizEnd component." />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -361,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Quiz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="180">
+          <caret line="12" column="88" selection-start-line="12" selection-start-column="88" selection-end-line="12" selection-end-column="88" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
